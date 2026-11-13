@@ -52,4 +52,9 @@ Challenges in this process may come from merging datasets that have info scraped
 | Dec 17 | In-class project discussion |
 
 
+## Citations
+East, C. N., Patler, C., & Cox, E. (2026). ICE arrests, 2015–2026: Variation in targeting, method, and geography. Proceedings of the National Academy of Sciences, 123(31), e2618096123. https://doi.org/10.1073/pnas.2618096123  
+
+
+
 
