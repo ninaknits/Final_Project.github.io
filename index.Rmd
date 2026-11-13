@@ -1,0 +1,19 @@
+---
+title: "Final Project"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+
+---
+
+
+
+# Proposal Write Up
+
+ Click Here to See Our [Proposal](DSI-Final Project Proposal)
+
+
+
+
+

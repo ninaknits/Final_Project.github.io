@@ -1,0 +1,11 @@
+name: "DSI Final Project"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - icon: fa-github fa-lg
+      href: http://github.com/ninaknits/
+output:
+  html_document:
+    theme: flatly
+    
