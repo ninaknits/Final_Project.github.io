@@ -11,7 +11,7 @@ output:
 
 # Proposal Write Up
 
- Click Here to See Our [Proposal](DSI-Final Project Proposal)
+ Click Here to See Our [Proposal](Proposal.pdf)
 
 
 
